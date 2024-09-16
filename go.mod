@@ -1,4 +1,4 @@
-module github.com/hashicorp/terraform-exec
+module github.com/sfc-gh-rwincey/terraform-exec
 
 go 1.18
 
