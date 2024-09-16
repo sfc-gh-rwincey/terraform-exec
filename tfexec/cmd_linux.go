@@ -4,6 +4,7 @@
 package tfexec
 
 import (
+	"os"
 	"context"
 	"fmt"
 	"os/exec"
